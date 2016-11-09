@@ -1,0 +1,5 @@
+.cache/
+.python-version
+__pycache__
+*.pyc
+pip-selfcheck.json
